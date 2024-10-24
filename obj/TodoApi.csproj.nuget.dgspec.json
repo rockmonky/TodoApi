@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\esteban.alzate\\Desktop\\Projects\\.net\\TodoApi\\TodoApi.csproj": {}
+    "c:\\Users\\esteban.alzate\\Desktop\\Projects\\.net\\TodoApi\\TodoApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\esteban.alzate\\Desktop\\Projects\\.net\\TodoApi\\TodoApi.csproj": {
+    "c:\\Users\\esteban.alzate\\Desktop\\Projects\\.net\\TodoApi\\TodoApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\esteban.alzate\\Desktop\\Projects\\.net\\TodoApi\\TodoApi.csproj",
+        "projectUniqueName": "c:\\Users\\esteban.alzate\\Desktop\\Projects\\.net\\TodoApi\\TodoApi.csproj",
         "projectName": "TodoApi",
-        "projectPath": "C:\\Users\\esteban.alzate\\Desktop\\Projects\\.net\\TodoApi\\TodoApi.csproj",
+        "projectPath": "c:\\Users\\esteban.alzate\\Desktop\\Projects\\.net\\TodoApi\\TodoApi.csproj",
         "packagesPath": "C:\\Users\\esteban.alzate\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\esteban.alzate\\Desktop\\Projects\\.net\\TodoApi\\obj\\",
+        "outputPath": "c:\\Users\\esteban.alzate\\Desktop\\Projects\\.net\\TodoApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
