@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\esteban.alzate\\Desktop\\Projects\\.net\\TodoApi\\TodoApi.csproj": {}
+    "C:\\Users\\esteban.alzate\\Desktop\\Projects\\.net\\TodoApi\\TodoApi.csproj": {}
   },
   "projects": {
-    "c:\\Users\\esteban.alzate\\Desktop\\Projects\\.net\\TodoApi\\TodoApi.csproj": {
+    "C:\\Users\\esteban.alzate\\Desktop\\Projects\\.net\\TodoApi\\TodoApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\esteban.alzate\\Desktop\\Projects\\.net\\TodoApi\\TodoApi.csproj",
+        "projectUniqueName": "C:\\Users\\esteban.alzate\\Desktop\\Projects\\.net\\TodoApi\\TodoApi.csproj",
         "projectName": "TodoApi",
-        "projectPath": "c:\\Users\\esteban.alzate\\Desktop\\Projects\\.net\\TodoApi\\TodoApi.csproj",
+        "projectPath": "C:\\Users\\esteban.alzate\\Desktop\\Projects\\.net\\TodoApi\\TodoApi.csproj",
         "packagesPath": "C:\\Users\\esteban.alzate\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\esteban.alzate\\Desktop\\Projects\\.net\\TodoApi\\obj\\",
+        "outputPath": "C:\\Users\\esteban.alzate\\Desktop\\Projects\\.net\\TodoApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -49,9 +49,29 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
             "Microsoft.EntityFrameworkCore.InMemory": {
               "target": "Package",
               "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.6, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
